@@ -272,6 +272,7 @@
                         - index.php
     -   Pastikan semua soal yang dikerjakan bisa dijalankan dengan baik.
     -   Berikan panduan untuk menjalankan program yang dibuat untuk mempercepat proses pemeriksaan.
+    -   Berikan saran, kritik, atau keluhan terkait soal tes dalam bentuk .txt.
     -   Upload ke 1 repository github, pastikan bisa diakses public (nama repo dibebaskan).
     -   Jika tidak bisa mengupload ke github, zip folder lalu upload ke google drive.
     -   Link file github ataupun drive diberikan ke private chat zoom.
